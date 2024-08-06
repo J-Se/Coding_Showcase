@@ -1,0 +1,182 @@
+TESTING RESULTS DEPTH 2
+
+White AI is Random and Black AI is Random
+White won 2 times, Black won 3 times, and they drew 2 times.
+
+
+
+White AI is Random and Black AI is Piece pusher
+White won 0 times, Black won 7 times, and they drew 0 times.
+
+
+
+White AI is Random and Black AI is Trader
+White won 0 times, Black won 7 times, and they drew 0 times.
+
+
+
+White AI is Random and Black AI is Basic
+White won 0 times, Black won 7 times, and they drew 0 times.
+
+
+
+White AI is Random and Black AI is Pawn pusher
+White won 0 times, Black won 7 times, and they drew 0 times.
+
+
+
+White AI is Random and Black AI is Attacker
+White won 0 times, Black won 7 times, and they drew 0 times.
+
+
+
+White AI is Basic and Black AI is Random
+White won 7 times, Black won 0 times, and they drew 0 times.
+
+
+
+White AI is Basic and Black AI is Pawn pusher
+White won 5 times, Black won 2 times, and they drew 0 times.
+
+
+
+White AI is Basic and Black AI is Basic
+White won 2 times, Black won 5 times, and they drew 0 times.
+
+
+
+White AI is Basic and Black AI is Piece pusher
+White won 4 times, Black won 2 times, and they drew 1 times.
+
+
+
+White AI is Basic and Black AI is Trader
+White won 5 times, Black won 1 times, and they drew 1 times.
+
+
+
+White AI is Basic and Black AI is Attacker
+White won 2 times, Black won 4 times, and they drew 1 times.
+
+
+
+White AI is Trader and Black AI is Random
+White won 6 times, Black won 1 times, and they drew 0 times.
+
+
+
+White AI is Trader and Black AI is Basic
+White won 4 times, Black won 3 times, and they drew 0 times.
+
+
+
+White AI is Trader and Black AI is Pawn pusher
+White won 5 times, Black won 2 times, and they drew 0 times.
+
+
+
+White AI is Trader and Black AI is Trader
+White won 3 times, Black won 4 times, and they drew 0 times.
+
+
+
+White AI is Trader and Black AI is Piece pusher
+White won 4 times, Black won 2 times, and they drew 1 times.
+
+
+
+White AI is Trader and Black AI is Attacker
+White won 2 times, Black won 5 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Random
+White won 7 times, Black won 0 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Basic
+White won 4 times, Black won 3 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Trader
+White won 4 times, Black won 3 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Pawn pusher
+White won 4 times, Black won 3 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Piece pusher
+White won 3 times, Black won 4 times, and they drew 0 times.
+
+
+
+White AI is Piece pusher and Black AI is Attacker
+White won 2 times, Black won 2 times, and they drew 3 times.
+
+
+
+White AI is Attacker and Black AI is Random
+White won 7 times, Black won 0 times, and they drew 0 times.
+
+
+
+White AI is Attacker and Black AI is Pawn pusher
+White won 6 times, Black won 1 times, and they drew 0 times.
+
+
+
+White AI is Attacker and Black AI is Basic
+White won 6 times, Black won 1 times, and they drew 0 times.
+
+
+
+White AI is Attacker and Black AI is Piece pusher
+White won 5 times, Black won 0 times, and they drew 2 times.
+
+
+
+White AI is Attacker and Black AI is Trader
+White won 5 times, Black won 0 times, and they drew 2 times.
+
+
+
+White AI is Attacker and Black AI is Attacker
+White won 3 times, Black won 2 times, and they drew 2 times.
+
+
+
+White AI is Pawn pusher and Black AI is Random
+White won 7 times, Black won 0 times, and they drew 0 times.
+
+
+
+White AI is Pawn pusher and Black AI is Piece pusher
+White won 1 times, Black won 6 times, and they drew 0 times.
+
+
+
+White AI is Pawn pusher and Black AI is Pawn pusher
+White won 4 times, Black won 3 times, and they drew 0 times.
+
+
+
+White AI is Pawn pusher and Black AI is Trader
+White won 2 times, Black won 4 times, and they drew 1 times.
+
+
+
+White AI is Pawn pusher and Black AI is Basic
+White won 3 times, Black won 3 times, and they drew 1 times.
+
+
+
+White AI is Pawn pusher and Black AI is Attacker
+White won 1 times, Black won 6 times, and they drew 0 times.
+
+
+

@@ -1,0 +1,7 @@
+TESTING RESULTS DEPTH 1
+
+White AI is Random and Black AI is Piece pusher
+White won 0 times, Black won 1 times, and they drew 8 times.
+
+
+

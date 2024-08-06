@@ -1,3 +1,3 @@
 # Code Showcase
 
-This repository contains some sample code I have written. Each piece of code is in its own folder and has its own readme file.
+This repository contains some projects of various sizes that I have worked on in both an individual and group capacity.
